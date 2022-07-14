@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻: About Me :
-I am a NLP Engineer and Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran 🇮🇷.
-- :telescope: I’m working as a NLP Engineer at   <a href="https://roshan-ai.ir/">
-   Roshan</a> company.
+I am a AI Engineer and Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran 🇮🇷.
+- :telescope: I’m working as a AI Software Engineer at   <a href="https://bmibourse.ir/">
+   Melli Brokerage</a> company.
 
 - :seedling: Finding novel ways to solve people problems.
 
