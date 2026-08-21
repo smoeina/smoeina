@@ -55,12 +55,14 @@ Additional work includes confidence-aware model evaluation, interpretable reinfo
 - [**NERPER**](https://github.com/smoeina/NERPER) — Named-entity recognition resources for Persian NLP.
 - [**TensorFlow-TransX**](https://github.com/smoeina/TensorFlow-TransX) — TensorFlow implementations of knowledge-graph embedding models.
 
-## Recognition
+## Repository Focus
 
-- **3rd Place**, Quera & MCI LAB Secure AI Competition — LLM safety, adversarial attacks, and guard systems (2025)
-- **Vector Institute Scholarship** recipient (2023)
-- **Rank 180**, Iranian National M.Sc. Entrance Examination in Computer Engineering — top 1.3% (2023)
-- **Rank 930**, Iranian Nationwide University Entrance Examination — top 0.65% (2018)
+My public repositories reflect a progression from applied software development to research-oriented machine learning:
+
+- **Graph and representation learning:** graph anomaly detection in [NxtGRAM](https://github.com/smoeina/NxtGRAM) and knowledge-graph embeddings in [TensorFlow-TransX](https://github.com/smoeina/TensorFlow-TransX).
+- **Language models and Persian NLP:** parameter-efficient LLM adaptation in [Gemma DoRA SUT](https://github.com/smoeina/gemma-dora-sut), Persian named-entity recognition in [NERPER](https://github.com/smoeina/NERPER), and related NLP experimentation.
+- **Computer vision and neuroevolution:** facial geometry analysis in [Facial Golden Ratio](https://github.com/smoeina/Facial-Golden-Ratio) and evolutionary learning in [Snail Jumper Neuroevolution](https://github.com/smoeina/Snail-Jumper-Neuroevolution).
+- **Applied systems:** projects spanning backend services, financial tooling, conversational applications, and intelligent automation.
 
 ## Teaching
 
