@@ -1,70 +1,80 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<h1 align="center">Seyed Moein Ayyoubzadeh</h1>
 
+<p align="center">
+  <strong>Machine Learning Researcher · AI Engineer</strong><br>
+  M.Sc. Student in Computer Engineering (Artificial Intelligence), Sharif University of Technology
+</p>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/smayyoubzadeh/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCkq_r4wTSD--xTJhUGPrkVw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+<p align="center">
+  <a href="mailto:smoein.ayyoubzadeh16@sharif.edu">Email</a> ·
+  <a href="https://www.linkedin.com/in/ayyoubzadeh">LinkedIn</a> ·
+  <a href="https://github.com/smoeina">GitHub</a>
+</p>
 
-</div>
-<div  align="center" >
-    <img src="https://komarev.com/ghpvc/?username=smoeina&style=flat-square&color=blue" alt="" align="center"/>
-<h1>
-  Hi,there :)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+## About
+
+I am a machine learning researcher and AI engineer working at the intersection of **language models, representation learning, graph machine learning, and trustworthy AI**. My research spans low-resource natural language processing, network science, interpretable learning, and learning with limited supervision.
+
+I am currently pursuing an M.Sc. in Computer Engineering at **Sharif University of Technology**. My thesis, **Q-DISCO-GNN**, investigates learning dual parameters for query-centric densest-subgraph discovery using graph neural networks.
+
+Previously, I worked as an **AI Engineer (LLM Specialist)** at Shatel AI Center and as an NLP engineer on named-entity recognition, Persian NLP, and knowledge-resource projects.
+
+## Research Interests
+
+- Language models, generative models, and representation learning
+- Natural language processing, particularly low-resource and Persian NLP
+- Graph neural networks, network science, and computational social science
+- Interpretable, confidence-aware, and trustworthy machine learning
+- Agentic AI in biomedicine and scientific discovery
+
+## Selected Research
+
+- **The Next Paradigm in Medical AI: A Survey of Agentic AI in Biomedicine**  
+  *IEEE Reviews in Biomedical Engineering, 2026*  
+  Developed the literature taxonomy and manuscript structure and contributed to the synthesis and writing.
+
+- **NAZM: Network Analysis of Zonal Metrics in Persian Poetic Tradition**  
+  *Social Network Analysis and Mining, 2025*  
+  Contributed network modeling, metric design, and empirical analysis on Persian literary corpora.
+
+- **A Novel Nearest Neighbors Algorithm Based on Power Muirhead Mean**  
+  *Intelligent Decision Technologies, 2024*  
+  Contributed algorithm design, theoretical formulation, and experimental evaluation.
+
+- **Persian Homograph Disambiguation: Leveraging ParsBERT for Enhanced Sentence Understanding with a Novel Word Disambiguation Dataset**  
+  *arXiv preprint, 2024*  
+  Constructed the dataset and developed and evaluated the ParsBERT-based disambiguation approach.
+
+Additional work includes confidence-aware model evaluation, interpretable reinforcement learning, mechanism design for LLM-era data sharing, authorship recognition, and computational analysis of personality-driven social networks.
+
+## Selected Projects
+
+- [**Next Paradigm Medical AI**](https://github.com/smoeina/next-paradigm-medical-ai) — Resources and materials for a survey of agentic AI in biomedicine.
+- [**NxtGRAM**](https://github.com/smoeina/NxtGRAM) — Research code for efficient graph representation learning and anomaly detection.
+- [**Gemma DoRA SUT**](https://github.com/smoeina/gemma-dora-sut) — Parameter-efficient adaptation experiments with Gemma.
+- [**NERPER**](https://github.com/smoeina/NERPER) — Named-entity recognition resources for Persian NLP.
+- [**TensorFlow-TransX**](https://github.com/smoeina/TensorFlow-TransX) — TensorFlow implementations of knowledge-graph embedding models.
+
+## Recognition
+
+- **3rd Place**, Quera & MCI LAB Secure AI Competition — LLM safety, adversarial attacks, and guard systems (2025)
+- **Vector Institute Scholarship** recipient (2023)
+- **Rank 180**, Iranian National M.Sc. Entrance Examination in Computer Engineering — top 1.3% (2023)
+- **Rank 930**, Iranian Nationwide University Entrance Examination — top 0.65% (2018)
+
+## Teaching
+
+At Sharif University of Technology, I have served as a teaching assistant for **Machine Learning**, **Deep Learning**, and **Programming**, including head teaching-assistant responsibilities. I previously assisted courses in algorithms, signals and systems, circuits, microprocessors, and computer networks at Amirkabir University of Technology.
+
+## Technical Profile
+
+**Machine Learning:** PyTorch, Hugging Face Transformers, TensorFlow, LLMs, GNNs, NLP, generative and representation learning, RAG  
+**Programming:** Python, C++, Java  
+**Research & Data:** NumPy, SciPy, pandas, Matplotlib, Weights & Biases  
+**Systems:** Linux, Docker, CUDA, Git, FastAPI, PostgreSQL
+
 ---
 
-### 👨‍💻: About Me :
-I am a AI Engineer and Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran 🇮🇷.
-
-- :seedling: Finding novel ways to solve people problems.
-
-- 🎮 In my free time, I play video game.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-smayyoubzadeh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/smayyoubzadeh/)
-
----
-
-
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="SSH" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="IONIC" alt="IONIC" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
----
-
-
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smoeina&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoeina&langs_count=5&hide=javascript,html&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
+<p align="center">
+  Open to research collaboration in language models, graph learning, trustworthy AI, and agentic AI.
+</p>
